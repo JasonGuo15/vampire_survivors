@@ -1,0 +1,25 @@
+# Game Configuration Constants
+
+# Screen Settings
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+FPS = 60
+
+# Player Settings
+PLAYER_SPEED = 5
+PLAYER_HEALTH = 100
+PLAYER_ATTACK_POWER = 10
+
+# Enemy Settings
+ENEMY_SPEED = 3
+ENEMY_HEALTH = 50
+ENEMY_ATTACK_POWER = 5
+
+# Attack Settings
+ATTACK_COOLDOWN = 1.0
+ATTACK_RADIUS = 50
+
+# Game Settings
+MAX_ENEMIES = 20
+LEVEL_TIME_LIMIT = 120
+GAME_OVER_SCREEN = True
